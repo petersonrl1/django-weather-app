@@ -1,2 +1,2 @@
 # django-weather-app
-Simple Django project calling a weather API
+Simple Django project calling a weather API from https://openweathermap.org/
